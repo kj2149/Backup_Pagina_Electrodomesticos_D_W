@@ -7,7 +7,7 @@
 }
 /*estilo parael parallax*/
 #parallax {
-    background-image: url(../imagenes/pl2.jpg);
+    background-image: url(imagenes/pl2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -45,7 +45,7 @@ img{
 }
 header{
    /* background-color: rgba(12, 12, 12, 0.89);*/
-    background-image: url(../imagenes/pl1.jpg);
+    background-image: url(imagenes/pl1.jpg);
 }
 .iniciar{
     float: right;
